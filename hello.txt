@@ -1,2 +1,6 @@
 hi this myfirst git file
 i hope you enjoyed it thid is very important that you enjoy what  you do....
+
+
+
+git message in vs code
